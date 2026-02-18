@@ -35,7 +35,7 @@ J-Mox ist ein leichtgewichtiger, webbasierter Hypervisor-Manager, der in Java ge
 ### Installation
 1. Repository klonen:
 ```bash
-   git clone [https://github.com/dein-username/j-mox.git](https://github.com/dein-username/j-mox.git)
+   git clone https://github.com/DragonRex004/j-mox.git
    cd j-mox
 ```
 Projekt bauen:
