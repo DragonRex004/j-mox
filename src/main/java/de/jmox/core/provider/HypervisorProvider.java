@@ -1,4 +1,4 @@
-package de.jmox.core;
+package de.jmox.core.provider;
 
 import java.util.List;
 

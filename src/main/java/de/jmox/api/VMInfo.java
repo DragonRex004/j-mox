@@ -1,4 +1,3 @@
 package de.jmox.api;
 
-public record VMInfo() {
-}
+public record VMInfo(String name, boolean running) {}

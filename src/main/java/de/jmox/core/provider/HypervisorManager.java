@@ -1,4 +1,4 @@
-package de.jmox.core;
+package de.jmox.core.provider;
 
 import de.jmox.providers.LibvirtProvider;
 import de.jmox.providers.VBoxProvider;

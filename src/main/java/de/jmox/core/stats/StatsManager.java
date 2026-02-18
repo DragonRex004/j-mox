@@ -1,4 +1,4 @@
-package de.jmox.core;
+package de.jmox.core.stats;
 
 import oshi.SystemInfo;
 import oshi.hardware.CentralProcessor;
