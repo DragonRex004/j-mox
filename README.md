@@ -9,7 +9,6 @@ J-Mox ist ein leichtgewichtiger, webbasierter Hypervisor-Manager, der in Java ge
 * **Live Monitoring:** Host-Auslastung (CPU & RAM) in Echtzeit via OSHI.
 * **Hypervisor Control:** Starten/Stoppen von VMs direkt aus dem Browser.
 * **Sicherer Zugriff:** Authentifizierung mittels BCrypt-Hashing und Session-Management.
-* **System Logs:** Live-Konsole im Dashboard für die Fehlersuche.
 * **User Management:** Integrierte Benutzerverwaltung mit SQLite-Datenbank.
 * **Modern UI:** Responsives Design mit Tailwind CSS (optimiert für Desktop & Mobile).
 * **Admin CLI:** Interaktive JLine3-Konsole im Terminal zur Server-Steuerung.
